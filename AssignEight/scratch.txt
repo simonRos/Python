@@ -1,0 +1,7 @@
+code will take each line from input text and store it as a string.
+
+The string will be written to the output file
+
+The string will be replaced with itself minus the dollar sign.
+
+The new string will be typecast as a float, run through the exchange algorithm and written to output file.
